@@ -1,5 +1,5 @@
 # Practica 4: Sistemas operativos a tiempo real (basico)
-## Objectivo: 
+## Objetivo: 
 - El objetivo de la practica es comprender el funcionamiento de un sistema operativo en tiempo
 Real.
 - Para lo cual realizaremos una practica donde generaremos varias tareas y veremos como se
